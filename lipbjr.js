@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     setInterval(drawMatrix, 40);
 
-    const textToType = "> I'm LippWangsaff. A Cybersecurity Enthusiast & Digital Anomaly.";
+    const textToType = "> I'm L-Desu. A Cybersecurity Enthusiast & Digital Anomaly.";
     let typeIndex = 0;
     
     function startTypewriter() {
